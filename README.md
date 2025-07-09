@@ -37,6 +37,13 @@ My name is Moritz and I'm a computer science graduate, from Trier, Germany!
 
 ###
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+###
+
 
 <!--
 ## Hi there 👋
