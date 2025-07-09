@@ -2,7 +2,7 @@
 
 ###
 
-My name is Moritz and I'm a tech guy, from Trier, Germany!
+My name is Moritz and I'm a computer science graduate, from Trier, Germany!
 
 ###
 
