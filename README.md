@@ -1,21 +1,23 @@
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Moritz and I'm a tech guy, from Trier, Germany!</p>
+## Hey 👋 What's up?
 
 ###
 
-<h2 align="left">About me</h2>
+My name is Moritz and I'm a tech guy, from Trier, Germany!
 
 ###
 
-<p align="left">✨ **Creating bugs since** 2016<br>📚 **I'm currently learning** Go and about vulnerabilities in Rust<br>💻 **I’m currently working on** my VPS (which is mainly for simplifying my life) and some [blog posts](https://moritz-mander.de/)<br>🎲 **Fun fact:** I once found gold in a forrest close to Melbourne (Australia). It's as big as a rice corn and thus not enough for early retirement.</p>
+## About me
 
 ###
 
-<h2 align="left">I currently* work with</h2>
+✨ **Creating bugs since** 2016<br>
+📚 **I'm currently learning** Go and about vulnerabilities in Rust<br>
+💻 **I’m currently working on** my VPS (which is mainly for simplifying my life) and some [blog posts](https://moritz-mander.de/)<br>
+🎲 **Fun fact:** I once found gold in a forrest close to Melbourne (Australia). It's as big as a rice corn and thus not enough for early retirement...
+
+###
+
+## I am currently working with
 
 ###
 
