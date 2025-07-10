@@ -41,9 +41,6 @@ My name is Moritz and I'm a computer science graduate, from Trier, Germany!
 
 <!-- BLOG-POST-LIST:START -->
 - [My Bank Keeps On Undermining Anti-Phishing Education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
-- [/now](http://moritz-mander.de/now/)
-- [About](http://moritz-mander.de/about/)
-- [CURRICULUM VITAE](http://moritz-mander.de/cv/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
