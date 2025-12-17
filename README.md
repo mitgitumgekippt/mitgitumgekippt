@@ -10,10 +10,12 @@ My name is Moritz and I'm a computer science graduate, from Trier, Germany!
 
 ###
 
-**Creating bugs since** 2016<br>
-**I'm currently learning** Go and about vulnerabilities in Rust<br>
-**I’m currently working on** my VPS (which is mainly for simplifying my life) and some [blog posts](https://moritz-mander.de/)<br>
-**Fun fact:** I once found gold in a forrest close to Melbourne (Australia). It's as big as a rice corn and thus not enough for early retirement...
+-- **Creating bugs since** 2016<be>
+
+-- **I'm currently learning** Go and about vulnerabilities in Rust<br>
+-- **I’m currently working on** my VPS (which is mainly for simplifying my life) and some [blog posts](https://moritz-mander.de/)<br>
+
+-- **Fun fact:** I once found gold in a forrest close to Melbourne (Australia). It's as big as a rice corn and thus not enough for early retirement...
 
 ###
 
